@@ -22,3 +22,8 @@ End-to-end facial biometric verification and deepfake detection system built wit
 - Jerome Mokwe [ML & Environment Lead]
 - Brianna Brooks [Integration Lead]
 - Lilianna Martinez [Data & Evaluation Lead]
+
+
+## Future Goals
+
+1. Working Web Application login with face verification with Deepfake or spoof detection integrated 
